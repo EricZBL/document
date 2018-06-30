@@ -1,0 +1,8 @@
+*.tar.gz
+*.tgz
+*.rpm
+*.zip
+*.tmp
+~$*.docx
+*.swp
+*.idea
